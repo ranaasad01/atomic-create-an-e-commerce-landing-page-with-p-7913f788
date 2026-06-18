@@ -38,7 +38,7 @@ const PRODUCTS: ProductItem[] = [
     rating: 4.8,
     reviewCount: 312,
     category: "Fashion",
-    image: "https://img.lilysilk.com/cdn-cgi/image/width=1800,height=2700,quality=80,fit=cover/media/catalog/product/91S5049/266BU/4.jpg",
+    image: "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/assets/7913f788-873c-485b-af97-06b34df3fe90/77b16debfba64b9cbc2ead4337c54f6f.png",
     badge: "sale",
     description: "Timeless silhouette in a luxurious silk-wool blend. Effortlessly elegant for any season.",
   },
@@ -387,7 +387,7 @@ export default function HomePage() {
             >
               Style That{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600">
-                Speaks
+                Speak
               </span>{" "}
               for Itself.
             </motion.h1>
